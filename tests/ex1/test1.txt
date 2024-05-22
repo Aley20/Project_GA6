@@ -1,0 +1,4 @@
+1 X=1,Y=2+4
+10 IMPRIME "X = ",X,"Y = ",Y
+2 IMPRIME "X=1,Y=2+4"
+5 NL

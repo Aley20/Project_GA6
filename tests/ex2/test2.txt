@@ -1,0 +1,11 @@
+1 X=2
+5 X,Y = X+1, Y
+2 IMPRIME "Test : X,Y = X+1, Y"
+8 IMPRIME "X = ",X
+4 NL
+10 NL
+15 IMPRIME "Test : X,Y = 2"
+20 X,Y = 2
+16 NL
+11 IMPRIME "X=1,Y=2+4" 
+12 X=1,Y=2+4

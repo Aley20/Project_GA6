@@ -1,0 +1,4 @@
+10 X,Y,Z = 1, 2+5, 4
+20 IMPRIME X," ", Y," ", Z
+2 IMPRIME "Test X,Y,Z = 1, 2+5, 4"
+3 NL

@@ -1,0 +1,18 @@
+37 I = I + 1
+39 VAVERS 30
+17 NL
+40 FIN
+1 ENTREE A,B,C
+50 IMPRIME "ne s’imprime pas"
+5 REM "Ce programme est formidable."
+10 IMPRIME "Bis"
+10 IMPRIME "is"
+10 IMPRIME "B"
+10 IMPRIME "Bonjour Paris"
+16 IMPRIME 3 + 5, 19 + 1, "Hello World"
+20 I = 0
+15 NL
+30 SI I > 10 ALORS VAVERS 40
+35 IMPRIME I, " "
+2 IMPRIME A,B,C
+3 NL
